@@ -6,7 +6,7 @@
 
 ## [졸업 작품 소개]
 - 작품명 : 클동
-- 개발환경 : Spring Boot, React(or thymeleaf)
+- 개발환경 : Spring Boot, thymeleaf
 - 작품 소개 : 동영상 스트리밍 웹사이트
 - 작품의 특징 : AWS S3 를 이용한 스트리밍 사이트
 

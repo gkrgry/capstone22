@@ -13,7 +13,7 @@
 
 ## [개발 일지]
 ### 22.09.21
- - login, join 기능 구현
+ - Spring Boot 와 JPA 를 이용해 login, join 기능 구현/ bootstrap,template 이용해 디자인 구현
 
 ### 22.09.14
  - ERD 설계, 개발 시작

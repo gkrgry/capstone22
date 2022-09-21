@@ -13,10 +13,13 @@
 
 ## [개발 일지]
 ### 22.09.21
- - Spring Boot 와 JPA 를 이용해 login, join 기능 구현/ bootstrap,template 이용해 디자인 구현
+ - Spring Boot 와 JPA 를 이용해 login, join 기능 구현 및 
+ - Colorlib 웹 사이트 template 이용해 디자인 구현
 
 ### 22.09.14
- - ERD 설계, 개발 시작
+ - ERD 설계
+ ![image](https://user-images.githubusercontent.com/79895925/191419323-78e90b27-e6fc-4fa7-8668-4fb7acd1681c.png)
+ - 개발 시작
  
 ### 22.09.07
  - 작품 기술서 작성, 와이어 프레임 작성
